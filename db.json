@@ -3,17 +3,20 @@
     {
       "user": "marc",
       "password": 1234,
-      "rol": 0
+      "rol": 0,
+      "favorites":["a", "b"]
     },
     {
       "user": "laura",
       "password": 1234,
-      "rol": 0
+      "rol": 0,
+      "favorites":["a", "b"]
     },
     { 
       "user": "hulk",
       "password": 1234,
-      "rol": 1
+      "rol": 1,
+      "favorites":["a", "b"]
     }
   ]
 }
